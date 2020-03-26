@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Editor-VS_Code-0078d7.svg" />
   <img src="https://img.shields.io/badge/Library-React-61dbfb.svg" />
   <img src="https://img.shields.io/badge/Language-HTML,_CSS,_JS-red.svg" />
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7b4a0213-9bd6-4a4b-a0ef-ba6927fda0e2/deploy-status)](https://app.netlify.com/sites/cmcodes-todoapp/deploys)
   <img src="" />
 </p>
 
