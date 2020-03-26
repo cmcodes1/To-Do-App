@@ -1,4 +1,4 @@
-<h1 align="center"> :iphone: TO DO APP </h2>
+<h1 align="center"> :page_with_curl: TO DO APP </h2>
 <p align="center">
   To Do App is a modern web app written in ReactJS that can run on any browser. <br/>
   The app provides standard note-taking functionality. <br/> <br/>
