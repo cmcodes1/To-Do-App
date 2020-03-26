@@ -1,4 +1,4 @@
-<h1 align="center"> :page_with_curl: TO DO APP </h2>
+<h1 align="center"> :page_with_curl: TO DO APP </h1>
 <p align="center">
   To Do App is a modern web app written in ReactJS that can run on any browser. <br/>
   The app provides standard note-taking functionality. <br/> <br/>
@@ -9,9 +9,9 @@
   <img src="https://img.shields.io/badge/Editor-VS_Code-0078d7.svg" />
   <img src="https://img.shields.io/badge/Library-React-61dbfb.svg" />
   <img src="https://img.shields.io/badge/Language-HTML,_CSS,_JS-red.svg" />
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7b4a0213-9bd6-4a4b-a0ef-ba6927fda0e2/deploy-status)](https://app.netlify.com/sites/cmcodes-todoapp/deploys)
-  <img src="" />
 </p>
+
+<b><h3 align="center">[Click here to visit](https://app.netlify.com/sites/cmcodes-todoapp/deploys)</h3></b>
 
 ## Available Scripts
 
@@ -49,33 +49,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
