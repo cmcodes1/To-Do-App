@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Language-HTML,_CSS,_JS-red.svg" />
 </p>
 
-<b><h3 align="center">[Click here to visit](https://app.netlify.com/sites/cmcodes-todoapp/deploys)</h3></b>
+<b><h3 align="center">[Click here to visit](https://cmcodes-todoapp.netlify.com)</h3></b>
 
 ## Available Scripts
 
