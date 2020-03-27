@@ -9,9 +9,10 @@
   <img src="https://img.shields.io/badge/Editor-VS_Code-0078d7.svg" />
   <img src="https://img.shields.io/badge/Library-React-61dbfb.svg" />
   <img src="https://img.shields.io/badge/Language-HTML,_CSS,_JS-red.svg" />
+  <img src="https://github.com/cmcodes1/To-Do-App/blob/master/mockup.gif" />
 </p>
 
-<b><h3 align="center">[Click here to visit](https://cmcodes-todoapp.netlify.com)</h3></b>
+<b><h2 align="center">[CLICK HERE TO VISIT](https://cmcodes-todoapp.netlify.com)</h2></b>
 
 ## Available Scripts
 
