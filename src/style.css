@@ -1,11 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900');
-
 body {    font-family: 'Roboto', sans-serif;  }
-
 .heading {    width: 400px;    margin: 20px auto;    color: #009BFF;    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    clear: both;    display: block;    padding: 0px 0px; }
-
 .card {    width: 400px;   margin: 10px auto;    clear: both;    display: block;    padding: 0px 0px;    }
-
 .card::after {    clear: both;    display: block;    content: ""; }
 
 /* box */
@@ -25,7 +21,6 @@ body {    font-family: 'Roboto', sans-serif;  }
 .checkbox-label input:checked ~ .checkbox-custom::after {  -webkit-transform: rotate(45deg) scale(1);  -ms-transform: rotate(45deg) scale(1);  transform: rotate(45deg) scale(1); opacity:1;  left: 8px;  top: 3px;  width: 6px;  height: 12px;  border: solid #009BFF;  border-width: 0 2px 2px 0;  background-color: transparent;  border-radius: 0; }
 
 /* For Ripple Effect */
-
 .checkbox-label .checkbox-custom::before {    position: absolute;    content: "";    left: 10px;    top: 10px;    width: 0px;    height: 0px;    border-radius: 5px;    border: 2px solid #FFFFFF;    -webkit-transform: scale(0);    -ms-transform: scale(0);    transform: scale(0);    }
 .checkbox-label input:checked ~ .checkbox-custom::before {    left: -3px;    top: -3px;    width: 24px;    height: 24px;    border-radius: 5px;    -webkit-transform: scale(3);    -ms-transform: scale(3);    transform: scale(3);    opacity:0;    z-index: 999;    transition: all 0.3s ease-out;    -webkit-transition: all 0.3s ease-out;    -moz-transition: all 0.3s ease-out;    -ms-transition: all 0.3s ease-out;    -o-transition: all 0.3s ease-out; }
 
