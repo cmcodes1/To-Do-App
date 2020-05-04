@@ -8,11 +8,11 @@
   <img src="https://img.shields.io/badge/App_Size-472_KB-orange.svg" />
   <img src="https://img.shields.io/badge/Editor-VS_Code-0078d7.svg" />
   <img src="https://img.shields.io/badge/Library-React-61dbfb.svg" />
-  <img src="https://img.shields.io/badge/Language-HTML,_CSS,_JS-red.svg" /> <br/>
+  <img src="https://img.shields.io/badge/Language-HTML,_CSS,_JS-red.svg" /> <br/> <br/>
   <img src="https://github.com/cmcodes1/To-Do-App/blob/master/mockup.gif" />
 </p>
 
-<b><h2 align="center">[CLICK HERE TO VISIT](https://cmcodes-todoapp.netlify.com)</h2></b>
+<b><h2 align="center">[CLICK HERE TO VISIT](https://cmcodes-todoapp.netlify.app)</h2></b>
 
 <h3> Browser Compatibility </h3>
 <table>
