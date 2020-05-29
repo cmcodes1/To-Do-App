@@ -1,10 +1,9 @@
 <h1 align="center"> :page_with_curl: TO DO APP </h1>
 <p align="center">
-  To Do App is a modern web app written in ReactJS that can run on any browser. <br/>
+  To Do App is a modern webapp written in ReactJS that can run on any browser. <br/>
   The app provides standard note-taking functionality. <br/> <br/>
   <img src="https://img.shields.io/badge/Platform-Web-brightgreen.svg" />
   <img src="https://img.shields.io/badge/Version-3.0.1-green.svg" />
-  <img src="https://img.shields.io/badge/Repo_Size-132_MB-yellow.svg" /> 
   <img src="https://img.shields.io/badge/App_Size-472_KB-orange.svg" />
   <img src="https://img.shields.io/badge/Editor-VS_Code-0078d7.svg" />
   <img src="https://img.shields.io/badge/Library-React-61dbfb.svg" />
